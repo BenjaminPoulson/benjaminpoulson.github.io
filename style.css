@@ -38,5 +38,5 @@ p {
 
 #mc_embed_signup_scroll {
 	display: flex;
-	align-items: center;
+	justify-content: center;
 }
