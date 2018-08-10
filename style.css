@@ -35,3 +35,7 @@ p {
 	font-size: 150%;
 	color: white;
 }
+
+#mc_embed_signup_scroll {
+	display: flex;
+}
